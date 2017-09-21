@@ -47,19 +47,59 @@ background-color:yellow;
   
  
 
-  <h1>Jane Eyre </h1>
+ <html>
+<head>
 
-  <p> It goes through five distinct stages: Jane's childhood at Gateshead Hall, where she is emotionally
-    and physically abused by her aunt and cousins; her education at Lowood School, where she gains friends
-    and role models but suffers privations and oppression; her time as governess at Thornfield Hall, where
-    she falls in love with her Byronic employer, Edward Rochester; her time with the Rivers family,
-    during which her earnest but cold clergyman cousin, St. John Rivers, proposes to her; and her reunion
-    with, and marriage to, her beloved Rochester. During these sections, the novel provides
-    perspectives on a number of important social issues and ideas, many of which are critical of
-    the status quo (see the Themes section below). Literary critic Jerome Beaty opines that the close
-    first person perspective leaves the reader "too uncritically accepting of her worldview",
+<style type="text/css">
 
-  
+<title>gimp</title>
+
+
+</style>
+</head>
+<body>
+
+<a href="index.html">index</a>
+
+
+<p>this page is about gimp</p>
+
+
+
+<table border = "1">
+
+<tr>
+<th colspan="2"><h3>some images made with gimp</h3></th> 
+</tr> 
+<tr>
+<td><img src="gimppic1.jpg " height="150px"/></td>
+<td><img src="gimppic2.jpg " height="150px"/></td>
+</tr>
+<tr>
+<td><img src="gimppic3.jpg " height="150px"/></td>
+<td><img src="gimppic4.jpg " height="150px"/></td>
+</tr>
+<tr>
+<td><img src="gimpic.png " height="150px" /></td>
+<td>another pic will go here</td>
+
+
+</tr>
+
+
+
+
+
+
+
+
+</table> 
+
+
+
+</body>
+</html>
+
 			
 			
 
