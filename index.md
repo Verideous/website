@@ -60,8 +60,6 @@ background-color:yellow;
             perspectives on a number of important social issues and ideas, many of which are critical of
             the status quo (see the Themes section below). Literary critic Jerome Beaty opines that the close
             first person perspective leaves the reader "too uncritically accepting of her worldview",
-</body>
-</html>
 
 			
 			
