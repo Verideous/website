@@ -50,7 +50,7 @@ background-color:yellow;
 <body>
 	<h1>heading 1</h1>
 	<h2>heading 2</h2>
-<a href="textfile.html">page</a>
+<a href="textfile">page</a>
 </body>
 </html>
 
