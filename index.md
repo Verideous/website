@@ -1,4 +1,4 @@
-
+ 1
 
 <html>
 <head>
@@ -42,7 +42,8 @@ background-color:yellow;
 
 </head>
 <body>
-	<h1>heading</h1>
+	<h1>heading 1</h1>
+	<h2>heading 2</h2>
 
 </body>
 </html>
