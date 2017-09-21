@@ -1,5 +1,6 @@
 
 
+
 <html>
 <head>
 
@@ -61,7 +62,7 @@ background-color:yellow;
             the status quo (see the Themes section below). Literary critic Jerome Beaty opines that the close
             first person perspective leaves the reader "too uncritically accepting of her worldview",
 
-			
+<hr />
 			
 
 
