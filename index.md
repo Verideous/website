@@ -33,15 +33,7 @@ a:visited{
 color:brown;
 }
 
-a:hover{
-background-color:blue;
-color:white;
-}
 
-a:active{
-color:brown;
-background-color:yellow;
-}
 
 
 </style>
