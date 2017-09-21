@@ -1,4 +1,4 @@
- 1
+
 
 <html>
 <head>
@@ -11,6 +11,11 @@ background-color: #F0FFFF;
 }
 
 h1 {
+color:#CC0066;
+text-align:center;
+}
+
+h2 {
 color:#CC0066;
 text-align:center;
 }
